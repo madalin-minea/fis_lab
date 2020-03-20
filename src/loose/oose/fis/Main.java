@@ -38,6 +38,5 @@ public class Main {
         pc2.adaugaProcesor(pc1);
         pc2.adaugaProcesor(c3);
 
-
     }
 }
